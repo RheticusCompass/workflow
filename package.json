@@ -1,0 +1,10 @@
+{
+  "name": "workflow",
+  "version": "0.0.1",
+  "description": "setup of a basic workflow",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Christina Anderson"
+}
